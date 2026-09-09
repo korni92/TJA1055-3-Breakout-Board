@@ -11,6 +11,9 @@ shifters.
 
 ---
 
+<img width="872" height="592" alt="TJA1055-3" src="https://github.com/user-attachments/assets/c0019707-8df6-49b8-a0ae-e887229e1b16" />
+
+
 ## Quick start
 
 If you just want CAN and don't care about the transceiver's power-management features:
