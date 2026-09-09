@@ -11,8 +11,7 @@ shifters.
 
 ---
 
-<img width="872" height="592" alt="PCB_F" src="https://github.com/user-attachments/assets/510b0dd9-7eb6-4a48-a020-f0171f1fc0c1" />
-
+<img width="883" height="605" alt="PCB_F" src="https://github.com/user-attachments/assets/0252a371-7949-406c-befd-e2dcdd5bd157" />
 
 ## Quick start
 
