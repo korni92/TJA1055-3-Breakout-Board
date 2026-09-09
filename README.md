@@ -11,7 +11,7 @@ shifters.
 
 ---
 
-<img width="872" height="592" alt="TJA1055-3" src="https://github.com/user-attachments/assets/c0019707-8df6-49b8-a0ae-e887229e1b16" />
+<img width="872" height="592" alt="PCB_F" src="https://github.com/user-attachments/assets/510b0dd9-7eb6-4a48-a020-f0171f1fc0c1" />
 
 
 ## Quick start
