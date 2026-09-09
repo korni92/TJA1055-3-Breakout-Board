@@ -395,7 +395,7 @@ keep a continuous ground plane; keep the controller-to-transceiver run short.
 
 | Part | License |
 |---|---|
-| Hardware — schematic, layout, gerbers | [CERN-OHL-P-2.0](https://cern-ohl.web.cern.ch/) |
+| Hardware — schematic, layout, gerbers | [CERN-OHL-S-2.0](https://cern-ohl.web.cern.ch/) |
 | Example code | [MIT](LICENSE) |
 | Documentation | [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/) |
 
